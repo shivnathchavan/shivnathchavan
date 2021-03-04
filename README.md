@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hi there 👋, I am shivnath
+### Hi there 👋 I am shivnath
 ![](https://pbs.twimg.com/profile_banners/810440240431144960/1591625267/600x200)
 
 
