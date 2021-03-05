@@ -1,3 +1,4 @@
+<p align='center'>
 ### Hi there 👋, I am shivnath
 ![](https://pbs.twimg.com/profile_banners/810440240431144960/1591625267/600x200)
 
@@ -9,6 +10,8 @@ Skills: c++/ python / Data science
 - 👯 I’m looking to collaborate on project Based on computer Vision 
 ![Profile views](https://gpvc.arturio.dev/shivnathchavan)  
  
+ </p> 
+
 <p align="left"> 
 
 [![GitHub Badge](https://img.shields.io/badge/-github-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/shivnathchavan)](https://github.com/shivnathchavan) [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https:////www.linkedin.com/in/shivnath-chavan-shiva111)](https://www.linkedin.com/in/shivnath-chavan-shiva111) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/sh1vnth/?hl=en)](https://www.instagram.com/sh1vnth/?hl=en)[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChavanShivnath)](https://twitter.com/ChavanShivnath) [![Gmail Badge](https://img.shields.io/badge/-GMail-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:shivnathchavan101@gmail.com)](mailto:shivnathchavan101@gmail.com) 
