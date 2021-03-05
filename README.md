@@ -35,9 +35,9 @@
  <p align="left"> 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 </p> 
-<p align="Right"> 
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shivnathchavan)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivnathchavan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivnathchavan)  
