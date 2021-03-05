@@ -35,16 +35,10 @@
  <p align="left"> 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 </p> 
-
+<p align="Right"> 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shivnathchavan)](https://github.com/ryo-ma/github-profile-trophy)
-
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivnathchavan)](https://github.com/anuraghazra/github-readme-stats)
-
-
-https://camo.githubusercontent.com/f50d7be8d8179a5e1c84380d85e5d3cefd12b03689eba754d1b46ca9c61f492f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f79553076724742544936544b672f67697068792e676966
-
-
-
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivnathchavan)  
 
