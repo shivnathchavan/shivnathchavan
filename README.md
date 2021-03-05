@@ -5,6 +5,8 @@ Hi there 👋
 - 🔭 I’m currently working on computer Vision  
 - 🌱 I’m currently learning Artificial Intelligence and Machine learning 
 - 👯 I’m looking to collaborate on project Based on computer Vision 
+
+
 ![Profile views](https://gpvc.arturio.dev/shivnathchavan)  
  
 
