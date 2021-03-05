@@ -14,25 +14,18 @@ Skills: c++/ python / Data science
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shivnath.chavan.9/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ChavanShivnath)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivnath-chavan-shiva111)
-  
 
-<br>
-
-
-<p align="left">
-  
-  
+<p align="left"> 
 ### Follow me
-  
+ [![GitHub Badge](https://img.shields.io/badge/-@shivnath-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/shivnathchavan)](https://github.com/shivnathchavan) 
 [![Linkedin Badge](https://img.shields.io/badge/-shivnath-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https:////www.linkedin.com/in/shivnath-chavan-shiva111)](https://www.linkedin.com/in/shivnath-chavan-shiva111) 
-[![Instagram Badge](https://img.shields.io/badge/-VaibhavHariramani-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/vaibhav.hariramani/?hl=en)](https://www.instagram.com/vaibhav.hariramani/?hl=en)
-[![Twitter Badge](https://img.shields.io/badge/-VaibhavHariramani-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vaibhavhariram2)](https://twitter.com/vaibhavhariram2) 
-[![GitHub Badge](https://img.shields.io/badge/-@Vaibhavhariaramani-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/vaibhavhariaramani)](https://github.com/vaibhavhariaramani)
-[![Gmail Badge](https://img.shields.io/badge/-VaibhavHariramani-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:vaibhav.hariramani01@gmail.com)](mailto:vaibhav.hariramani01@gmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/-shivnath-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/sh1vnth/?hl=en)](https://www.instagram.com/sh1vnth/?hl=en)
+[![Twitter Badge](https://img.shields.io/badge/-shivnath-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChavanShivnath)](https://twitter.com/ChavanShivnath) 
+[![Gmail Badge](https://img.shields.io/badge/-shivnath-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:shivnathchavan101@gmail.com)](mailto:shivnathchavan101@gmail.com) 
 
 
 </p> 
-<br>
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
