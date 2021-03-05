@@ -23,7 +23,7 @@ Skills: c++/ python / Data science
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivnathchavan)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+https://camo.githubusercontent.com/f50d7be8d8179a5e1c84380d85e5d3cefd12b03689eba754d1b46ca9c61f492f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f79553076724742544936544b672f67697068792e676966
 
 
 
