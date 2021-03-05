@@ -1,9 +1,6 @@
 <p align='center'>
-### Hi there 👋, I am shivnath
+Hi there 👋
 </p> 
-
-![](https://pbs.twimg.com/profile_banners/810440240431144960/1591625267/600x200)
-
 
 - 🔭 I’m currently working on computer Vision  
 - 🌱 I’m currently learning Artificial Intelligence and Machine learning 
