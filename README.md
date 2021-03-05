@@ -1,15 +1,14 @@
 <p align='center'>
 ### Hi there 👋, I am shivnath
+</p> 
+ <p align='center'>
 ![](https://pbs.twimg.com/profile_banners/810440240431144960/1591625267/600x200)
  </p> 
 <p align='center'>
-Skills: c++/ python / Data science 
-
 - 🔭 I’m currently working on computer Vision 
 - 🌱 I’m currently learning Artificial Intelligence and Machine learning 
 - 👯 I’m looking to collaborate on project Based on computer Vision 
 ![Profile views](https://gpvc.arturio.dev/shivnathchavan)  
- 
  </p> 
 
 <p align="left"> 
