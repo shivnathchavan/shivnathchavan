@@ -1,8 +1,8 @@
 <p align='center'>
 ### Hi there 👋, I am shivnath
 ![](https://pbs.twimg.com/profile_banners/810440240431144960/1591625267/600x200)
-
-
+ </p> 
+<p align='center'>
 Skills: c++/ python / Data science 
 
 - 🔭 I’m currently working on computer Vision 
