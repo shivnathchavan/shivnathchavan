@@ -17,11 +17,9 @@ Skills: c++/ python / Data science
 
 <p align="left"> 
 ### Follow me
- [![GitHub Badge](https://img.shields.io/badge/-@shivnath-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/shivnathchavan)](https://github.com/shivnathchavan) 
-[![Linkedin Badge](https://img.shields.io/badge/-shivnath-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https:////www.linkedin.com/in/shivnath-chavan-shiva111)](https://www.linkedin.com/in/shivnath-chavan-shiva111) 
-[![Instagram Badge](https://img.shields.io/badge/-shivnath-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/sh1vnth/?hl=en)](https://www.instagram.com/sh1vnth/?hl=en)
-[![Twitter Badge](https://img.shields.io/badge/-shivnath-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChavanShivnath)](https://twitter.com/ChavanShivnath) 
-[![Gmail Badge](https://img.shields.io/badge/-shivnath-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:shivnathchavan101@gmail.com)](mailto:shivnathchavan101@gmail.com) 
+ 
+ 
+[![GitHub Badge](https://img.shields.io/badge/-@shivnath-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/shivnathchavan)](https://github.com/shivnathchavan) [![Linkedin Badge](https://img.shields.io/badge/-shivnath-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https:////www.linkedin.com/in/shivnath-chavan-shiva111)](https://www.linkedin.com/in/shivnath-chavan-shiva111) [![Instagram Badge](https://img.shields.io/badge/-shivnath-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/sh1vnth/?hl=en)](https://www.instagram.com/sh1vnth/?hl=en)[![Twitter Badge](https://img.shields.io/badge/-shivnath-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChavanShivnath)](https://twitter.com/ChavanShivnath) [![Gmail Badge](https://img.shields.io/badge/-shivnath-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:shivnathchavan101@gmail.com)](mailto:shivnathchavan101@gmail.com) 
 
 
 </p> 
