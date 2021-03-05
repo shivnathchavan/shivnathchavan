@@ -9,6 +9,8 @@ Skills: c++/ python / Data science
 - 👯 I’m looking to collaborate on project Based on computer Vision 
 ![Profile views](https://gpvc.arturio.dev/shivnathchavan)  
 ![GitHub metrics](https://metrics.lecoq.io/shivnathchavan)  
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivnathchavan) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sh1vnth/) 
