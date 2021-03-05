@@ -9,17 +9,9 @@ Skills: c++/ python / Data science
 - 👯 I’m looking to collaborate on project Based on computer Vision 
 ![Profile views](https://gpvc.arturio.dev/shivnathchavan)  
  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivnathchavan) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sh1vnth/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shivnath.chavan.9/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ChavanShivnath)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivnath-chavan-shiva111)
-
 <p align="left"> 
-### Follow me
- 
- 
-[![GitHub Badge](https://img.shields.io/badge/-@shivnath-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/shivnathchavan)](https://github.com/shivnathchavan) [![Linkedin Badge](https://img.shields.io/badge/-shivnath-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https:////www.linkedin.com/in/shivnath-chavan-shiva111)](https://www.linkedin.com/in/shivnath-chavan-shiva111) [![Instagram Badge](https://img.shields.io/badge/-shivnath-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/sh1vnth/?hl=en)](https://www.instagram.com/sh1vnth/?hl=en)[![Twitter Badge](https://img.shields.io/badge/-shivnath-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChavanShivnath)](https://twitter.com/ChavanShivnath) [![Gmail Badge](https://img.shields.io/badge/-shivnath-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:shivnathchavan101@gmail.com)](mailto:shivnathchavan101@gmail.com) 
+
+[![GitHub Badge](https://img.shields.io/badge/-@github-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/shivnathchavan)](https://github.com/shivnathchavan) [![Linkedin Badge](https://img.shields.io/badge/-shivnath-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https:////www.linkedin.com/in/shivnath-chavan-shiva111)](https://www.linkedin.com/in/shivnath-chavan-shiva111) [![Instagram Badge](https://img.shields.io/badge/-shivnath-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/sh1vnth/?hl=en)](https://www.instagram.com/sh1vnth/?hl=en)[![Twitter Badge](https://img.shields.io/badge/-shivnath-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChavanShivnath)](https://twitter.com/ChavanShivnath) [![Gmail Badge](https://img.shields.io/badge/-shivnath-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:shivnathchavan101@gmail.com)](mailto:shivnathchavan101@gmail.com) 
 
 
 </p> 
