@@ -1,12 +1,7 @@
 <!DOCTYPE html>
-<head>
-  <style>
-    /* Your inline CSS styles here */
-  </style>
+
   <link rel="stylesheet" type="text/css" href="readme.css">
   <script src="readme.js"></script>
-</head>
-
 
 
 <div class="center-container">
