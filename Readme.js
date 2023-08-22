@@ -1,24 +1,9 @@
-<html>
-<head>
-<style>
-  body {
-    background-color: transparent;
-  }
-  .flex-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  .left-container {
-    flex: 1;
-  }
-  .right-container {
-    flex: 1;
-    text-align: right;
-  }
-  .center-container {
-    text-align: center;
-  }
-</style>
-</head>
-<body>
+// This is a simple example of a readme.js file
+
+// Function to be executed when the page loads
+function onPageLoad() {
+  alert("Welcome to my profile!");
+}
+
+// Attach the function to the "load" event of the window
+window.addEventListener("load", onPageLoad);
