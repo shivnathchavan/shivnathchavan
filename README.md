@@ -32,6 +32,50 @@
 <p align='center'  width="200" height="150" >
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=shivnathchavan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivnathchavan" alt="Contrubution"></a>
 </p>
+<p align='center' width="200" height="150">
+  <a href="https://github-readme-stats.herokuapp.com/?user=shivnathchavan">
+    <img src="https://github-readme-stats.herokuapp.com/?user=shivnathchavan" alt="GitHub Readme Stats">
+  </a>
+</p>
+<p align='center' width="200" height="150">
+  <a href="https://github.com/shivnathchavan">
+    <img src="https://komarev.com/ghpvc/?username=shivnathchavan" alt="GitHub Profile Views">
+  </a>
+</p>
+<p align='center' width="200" height="150">
+  <a href="https://github.com/shivnathchavan">
+    <img src="https://activity-graph.herokuapp.com/graph?username=shivnathchavan" alt="GitHub Activity Graph">
+  </a>
+</p>
+<p align='center' width="200" height="150">
+  <a href="https://github.com/shivnathchavan">
+    <img src="https://github.com/shivnathchavan.png" alt="GitHub Contribution Calendar">
+  </a>
+</p>
+<p align='center' width="200" height="150">
+  <a href="https://gist.github.com/shivnathchavan">
+    <img src="https://gist.github.com/shivnathchavan.png" alt="GitHub Gists">
+  </a>
+</p>
+<p align='center' width="200" height="150">
+  <a href="https://shivnathchavan.github.io">
+    <img src="https://github.com/shivnathchavan.png" alt="GitHub Pages">
+  </a>
+</p>
+<p align='center' width="200" height="150">
+  <a href="https://github.com/shivnathchavan">
+    <img src="https://img.shields.io/badge/Custom-Badge-green" alt="Custom Badge">
+  </a>
+</p>
+<p align='center' width="200" height="150">
+  <a href="https://github.com/shivnathchavan">
+    <img src="https://github-profile-trophy.vercel.app/?username=shivnathchavan" alt="GitHub Trophies">
+  </a>
+</p>
+
+
+
+
 
 
 <p align="center">
