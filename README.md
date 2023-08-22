@@ -7,7 +7,13 @@
     <img src="https://komarev.com/ghpvc/?username=shivnathchavan" alt="GitHub Profile Views">
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/shivnathchavan"><img src="https://img.shields.io/badge/-github-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/shivnathchavan" alt="GitHub Badge"></a>
+  <a href="https://www.linkedin.com/in/shivnath-chavan-shiva111"><img src="https://img.shields.io/badge/-linkedin-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivnath-chavan-shiva111" alt="LinkedIn Badge"></a>
+  <a href="https://www.instagram.com/sh1vnth/?hl=en"><img src="https://img.shields.io/badge/-Instagram-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/sh1vnth/?hl=en" alt="Instagram Badge"></a>
+  <a href="https://twitter.com/ChavanShivnath"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChavanShivnath" alt="Twitter Badge"></a>
+  <a href="mailto:Itsshivnath@gmail.com"><img src="https://img.shields.io/badge/-GMail-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:Itsshivnath@gmail.com" alt="GMail Badge"></a>
+</p>
 <p align='center'>
  
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python Logo">
@@ -48,10 +54,4 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/shivnathchavan"><img src="https://img.shields.io/badge/-github-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/shivnathchavan" alt="GitHub Badge"></a>
-  <a href="https://www.linkedin.com/in/shivnath-chavan-shiva111"><img src="https://img.shields.io/badge/-linkedin-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivnath-chavan-shiva111" alt="LinkedIn Badge"></a>
-  <a href="https://www.instagram.com/sh1vnth/?hl=en"><img src="https://img.shields.io/badge/-Instagram-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/sh1vnth/?hl=en" alt="Instagram Badge"></a>
-  <a href="https://twitter.com/ChavanShivnath"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChavanShivnath" alt="Twitter Badge"></a>
-  <a href="mailto:Itsshivnath@gmail.com"><img src="https://img.shields.io/badge/-GMail-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:Itsshivnath@gmail.com" alt="GMail Badge"></a>
-</p>
+
