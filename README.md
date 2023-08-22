@@ -1,28 +1,13 @@
 <!DOCTYPE html>
-<html>
 <head>
-<style>
-  body {
-    background-color: transparent;
-  }
-  .flex-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  .left-container {
-    flex: 1;
-  }
-  .right-container {
-    flex: 1;
-    text-align: right;
-  }
-  .center-container {
-    text-align: center;
-  }
-</style>
+  <style>
+    /* Your inline CSS styles here */
+  </style>
+  <link rel="stylesheet" type="text/css" href="readme.css">
+  <script src="readme.js"></script>
 </head>
-<body>
+
+
 
 <div class="center-container">
   <p>
