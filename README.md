@@ -48,8 +48,16 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivnathchavan&layout=compact" alt="Top Languages"></a>
 </p>
 <p align='center'  width="200" height="150" >
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=shivnathchavan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivnathchavan" alt="Contrubution"></a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=shivnathchavan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivnathchavan&hide="currentstreak"" alt="Contrubution"></a>
 </p>
+<p align='center'  width="200" height="150" >
+  <a href="https://github-readme-stats.vercel.app/api?username=shivnathchavan"><img src=https://github-readme-stats.vercel.app/api?username=shivnathchavan alt="Contrubution"></a>
+</p>
+
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 
 
 
