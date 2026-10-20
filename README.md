@@ -1,56 +1,37 @@
-<p align='center'>
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center" width="200" height="150"/>
-</p>
+# Hi, I'm Shivnath 👋
 
-<p align='center' width="200" height="150">
-  <a href="https://github.com/shivnathchavan">
-    <img src="https://komarev.com/ghpvc/?username=shivnathchavan" alt="GitHub Profile Views">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/shivnathchavan"><img src="https://img.shields.io/badge/-github-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/shivnathchavan" alt="GitHub Badge"></a>
-  <a href="https://www.linkedin.com/in/shivnath-chavan-shiva111"><img src="https://img.shields.io/badge/-linkedin-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivnath-chavan-shiva111" alt="LinkedIn Badge"></a>
-  <a href="https://www.instagram.com/sh1vnth/?hl=en"><img src="https://img.shields.io/badge/-Instagram-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/sh1vnth/?hl=en" alt="Instagram Badge"></a>
-  <a href="https://twitter.com/ChavanShivnath"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChavanShivnath" alt="Twitter Badge"></a>
-  <a href="mailto:Itsshivnath@gmail.com"><img src="https://img.shields.io/badge/-GMail-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:Itsshivnath@gmail.com" alt="GMail Badge"></a>
-</p>
-<p align='center'>
- 
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python Logo">
-  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518" alt="Java Logo">
-  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" alt="C Logo">
-  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++ Logo">
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript Logo">
-  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql" alt="SQL Logo">
-  <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp" alt="C# Logo">
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git Logo">
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub Logo">
+I build web apps with **JavaScript and TypeScript**, and I use Python for data work and automation.
 
-</p>
-<p align="center">
-  <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="30" height="30" alt="GitHub Archive Program Badge"></a>
-  <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="30" height="30" alt="GitHub Developer Badge"></a>
-  <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="30" height="30" alt="GitHub Archive Program Badge"></a>
-  <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="30" height="30" alt="GitHub Developer Badge"></a>
-  <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="30" height="30" alt="GitHub Archive Program Badge"></a>
-  <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="30" height="30" alt="GitHub Developer Badge"></a>
-</p>
+- 🛠️ Right now: <!-- what you're building -->
+- 🌱 Learning: <!-- e.g. testing, system design, cloud -->
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shivnath-chavan-shiva111) · [Email](mailto:Itsshivnath@gmail.com)
 
-<p align='center' width="200" height="150">
-  <a href="https://github.com/shivnathchavan">
-    <img src="https://img.shields.io/badge/Custom-Badge-green" alt="Custom Badge">
-  </a>
-</p>
-<p align='center'>
-  <a href="https://github.com/shivnathchavan"><img src="https://github-profile-trophy.vercel.app/?username=shivnathchavan&row=1&column=8" alt="GitHub Trophies" ></a>
-</p>
-<p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivnathchavan&layout=compact" alt="Top Languages"></a>
-</p>
-<p align='center'  width="200" height="150" >
-  <a href="https://github-readme-stats.vercel.app/api?username=shivnathchavan"><img src=https://github-readme-stats.vercel.app/api?username=shivnathchavan alt="Contrubution"></a>
-</p>
+## 🚀 Featured projects
 
+| Project | What it does | Stack |
+|---|---|---|
+| [YT-DOM-Tweaker](https://github.com/shivnathchavan/YT-DOM-Tweaker) | Browser extension that customises the YouTube UI | JavaScript |
+| [B-W-Image-Colorisation](https://github.com/shivnathchavan/B-W-Image-Colorisation) | Colours black-and-white photos with a pre-trained deep neural network | Deep learning |
+| [Automatic-Email-Sender](https://github.com/shivnathchavan/Automatic-Email-Sender-web-scraping) | Watches a Flipkart price and emails you when it drops | Python, BeautifulSoup, smtplib |
+| [Spark Funds analysis](https://github.com/shivnathchavan/sparks-fund-inventory) | Finds the best sectors and countries to invest in from global funding data | Python, pandas, Jupyter |
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+## 🧰 Tech I use
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=flat&logo=tailwindcss&logoColor=38BDF8)
+![Firebase](https://img.shields.io/badge/Firebase-1A1A1A?style=flat&logo=firebase&logoColor=FFCA28)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📊 GitHub stats
+
+<!-- The public github-readme-stats server is often rate-limited. If the card stops loading, host your own copy on Vercel (it takes a minute) and change the domain below. -->
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shivnathchavan&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivnathchavan&layout=compact&hide_border=true" alt="Top languages" />
+</p>
