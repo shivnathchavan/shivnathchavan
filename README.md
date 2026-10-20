@@ -10,7 +10,6 @@ I build web apps with **JavaScript and TypeScript**, and I use Python for data w
 
 | Project | What it does | Stack |
 |---|---|---|
-| [YT-DOM-Tweaker](https://github.com/shivnathchavan/YT-DOM-Tweaker) | Browser extension that customises the YouTube UI | JavaScript |
 | [B-W-Image-Colorisation](https://github.com/shivnathchavan/B-W-Image-Colorisation) | Colours black-and-white photos with a pre-trained deep neural network | Deep learning |
 | [Automatic-Email-Sender](https://github.com/shivnathchavan/Automatic-Email-Sender-web-scraping) | Watches a Flipkart price and emails you when it drops | Python, BeautifulSoup, smtplib |
 | [Spark Funds analysis](https://github.com/shivnathchavan/sparks-fund-inventory) | Finds the best sectors and countries to invest in from global funding data | Python, pandas, Jupyter |
